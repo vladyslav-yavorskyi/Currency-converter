@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+@import 'zeroing';
+@import 'converter';
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+  padding-top: 5rem;
+}
+
+.wrap {
+  width: 500px;
+}
+
+strong {
+  font-weight: 400;
+}

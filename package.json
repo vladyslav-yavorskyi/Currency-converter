@@ -1,0 +1,21 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "This plugin for currency converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "js",
+    "javasctipt"
+  ],
+  "author": "Vladyslav Yavorskyi <vlad09vlad09@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.4",
+    "sass": "^1.32.6"
+  }
+}
